@@ -1,0 +1,18 @@
+publications:
+  - id: pub_2025_nlp
+    title: "Large Language Models in Higher Education"
+    venue: "Journal of AI Research"
+    year: 2025
+    tags: ["R1", "NLP", "Teaching"]
+
+  - id: pub_2024_theory
+    title: "Asymptotic Bounds in Neural Architectures"
+    venue: "IEEE Transactions"
+    year: 2024
+    tags: ["R1", "Theory"]
+
+teaching:
+  - course: "CS 101: Intro to CS"
+    role: "Instructor"
+    term: "Fall 2025"
+    tags: ["Teaching", "Undergrad"]
